@@ -1,2 +1,2 @@
 # Calorie-Burnt-Predictor
-Calorie Burnt Predictor is a machine learning model which can be used to predict the amount of calories are burnt during an exercise session. 
+This project is a machine learning-based Jupyter Notebook that predicts the number of calories burnt during exercise based on inputs such as exercise type, duration, weight, age, and more. The model is developed using scikit-learn and visualized within the notebook.
